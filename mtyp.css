@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(90deg, #00009C 0%, #000000 100%);
+
+}
+
+.well {
+    background: linear-gradient(90deg, #00009C 0%, #000000 100%);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(-1em, 2em);
+    color: aliceblue;
+}
+.nemt {
+width: 300px;
+margin: 0 auto;
+display: block;
+  
+}
